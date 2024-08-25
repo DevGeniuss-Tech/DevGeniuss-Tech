@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm DevGeniuss</h1>
+<h1 align="center">Hi👋I'm Ghulam Fatima-Founder of DevGeniuss</h1>
 <h3 align="center">꧁༺ DevGeniuss — Your All-In-One Tech Solution! ༻꧂
   <br>
   <br>Specializing in WordPress, Shopify, and Web Development,<br> we empower businesses with innovative digital solutions.<br> Let’s code the future together! 🚀</h3>
